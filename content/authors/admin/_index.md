@@ -1,7 +1,7 @@
 ---
 title: Belal Hossain
 role: PhD Student
-avatar_filename: img_4073-small.jpg
+avatar_filename: ""
 bio: My research interests include biostatistics and epidemiology, with a
   particular focus on causal inference, machine learning, and complex surveys.
 interests:
