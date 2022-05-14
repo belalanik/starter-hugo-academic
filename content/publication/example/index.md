@@ -19,7 +19,7 @@ url_video: ""
 title: "Analysis approaches to address treatment nonadherence in pragmatic
   trials with point-treatment settings: a simulation study"
 doi: 10.1186/s12874-022-01518-8
-featured: true
+featured: false
 tags: []
 projects: []
 image:
