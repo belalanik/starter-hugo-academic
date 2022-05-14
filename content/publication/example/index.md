@@ -9,7 +9,7 @@ authors:
   - Mosquera LK
   - Karim ME
 author_notes: []
-publication: BMC Medical Research Methodology. 2022; 22:46
+publication: BMC Medical Research Methodology, 22:46
 summary: ""
 url_dataset: ""
 url_project: ""
