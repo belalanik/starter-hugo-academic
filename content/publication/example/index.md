@@ -9,7 +9,7 @@ authors:
   - Mosquera LK
   - Karim ME
 author_notes: []
-publication: ""
+publication: BMC Medical Research Methodology. 2022; 22:46
 summary: ""
 url_dataset: ""
 url_project: ""
@@ -18,6 +18,7 @@ url_source: ""
 url_video: ""
 title: "Analysis approaches to address treatment nonadherence in pragmatic
   trials with point-treatment settings: a simulation study"
+subtitle: ""
 doi: 10.1186/s12874-022-01518-8
 featured: false
 tags: []
