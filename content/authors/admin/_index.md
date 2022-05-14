@@ -25,8 +25,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/belalanik/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: The University of British Columbia
+    url: https://www.ubc.ca/
 education:
   courses: []
 email: ""
