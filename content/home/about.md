@@ -8,5 +8,5 @@ weight: 20
 title: Biography
 design:
   background:
-    image: img_4073-small.jpg
+    image: ""
 ---
