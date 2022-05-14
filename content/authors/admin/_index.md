@@ -6,12 +6,13 @@ bio: My research interests include biostatistics and epidemiology, with a
   particular focus on causal inference, machine learning, and complex surveys.
 interests:
   - Causal inference
-  - machine learning
-  - complex surveys
+  - Machine learning
+  - Complex surveys
+  - Admin data
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#belal.hossain@ubc.ca
+    link: /#contact
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/BelalAnik
@@ -28,7 +29,11 @@ organizations:
   - name: The University of British Columbia
     url: https://www.ubc.ca/
 education:
-  courses: []
+  courses:
+    - course: "MSc in Applied Statistics "
+      institution: University of Dhaka, 2015
+    - course: "BSc in Applied Statistics "
+      institution: University of Dhaka, 2014
 email: ""
 superuser: true
 highlight_name: true
