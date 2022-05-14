@@ -38,4 +38,4 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Mr. M. Belal Hossain is a PhD student at the School of Population and Public Health ([SPPH](https://www.spph.ubc.ca/)), The University of British Columbia ([UBC](https://www.ubc.ca/)).
+Mr. M. Belal Hossain is a PhD student in Biostatistics and Epidemiology in the School of Population and Public Health ([SPPH](https://www.spph.ubc.ca/)), The University of British Columbia ([UBC](https://www.ubc.ca/)). He had started his MSc in Population and Public Health in 2019 and then transferred to the PhD without completing the MSc degree in 2020. Before starting his MSc at UBC, he worked as a Research/Teaching Fellow for various healthcare institutes in Bangladesh. He is also working as a Graduate Research/Teaching Assistant at the UBC SPPH. [Dr. Ehsan Karim](https://ehsank.com/) is his PhD supervisor.
