@@ -26,9 +26,10 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
+  filename: null
 date: 2022-05-14T08:38:39.797Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
