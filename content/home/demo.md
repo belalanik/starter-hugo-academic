@@ -6,7 +6,7 @@ widget: blank
 widget_id: Name
 headless: true
 weight: 15
-title: Belal Hossain
+title: Belal's page
 subtitle: ""
 active: true
 design:
@@ -23,6 +23,3 @@ design:
       - 20px
       - "0"
 ---
-## PhD Student
-
-[School of Population and Public Health](https://www.spph.ubc.ca/), [The University of British Columbia](https://www.ubc.ca/)
