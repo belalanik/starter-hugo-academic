@@ -6,7 +6,7 @@ widget: blank
 widget_id: Name
 headless: true
 weight: 15
-title: Belal's page
+title: ""
 subtitle: ""
 active: true
 design:
